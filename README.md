@@ -1,3 +1,3 @@
 "Hello Team!" 
 "This project demonstrates collaboration." 
-"Team lead: Prakash" 
+"Team lead: Vinay & Prakash" 
